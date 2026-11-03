@@ -1,4 +1,4 @@
-# 🏦 BFSI Loan & EMI Voice Assistant
+# 🏦 BFSI Loan & EMI Voice Assistan
 
 A conversational voice assistant for the Banking, Financial Services & Insurance (BFSI) domain. Helps customers query loan details, EMI amounts, due dates, and outstanding balances through natural voice or text interactions — in **English** and **Hindi/Hinglish**.
 
